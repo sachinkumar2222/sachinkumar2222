@@ -1,12 +1,10 @@
-👨‍💻 **Full-Stack Developer | Backend Enthusiast**  
-🚀 Building cool projects using **React** & **Node.js**  
+👨‍💻 **Frontend Developer**  
+🚀 Building cool projects using **React** & **HTML**, **CSS**, **JS**.  
 🎯 Passionate about solving real-world problems with code
 
 ### ⚙️ **Tech Stack**:
-- 💻 Frontend: React.js, Next.js, Tailwind CSS
-- 🛠️ Backend: Node.js, Express.js, MongoDB, PostgreSQL
-- 🌐 APIs: RESTful, GraphQL
-- 🚀 DevOps: Docker, AWS, CI/CD
+- 💻 Frontend: React.js, HTML, CSS, JavaScript, Bootstrap, Tailwind CSS
+- 🌐 APIs: RESTful
 
 ### 🌱 **Currently Learning**:
 - 🔥 Advanced Backend (Node.js, Express.js)
