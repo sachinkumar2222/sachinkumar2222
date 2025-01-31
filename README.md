@@ -25,3 +25,9 @@
 - 💪 Fitness & Workout  
 - 📚 Continuous Learning  
 - 🎮 Gaming  
+
+🎯 **Goals**: :
+- Master backend development and system design.
+- Contribute to open-source projects and collaborate with developers.
+
+
